@@ -1,5 +1,5 @@
 import config
-import telebot
+import pyTelegramBotAPI as telebot
 #import put_new_words as load
 #import common_function as api
 
